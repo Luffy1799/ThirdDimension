@@ -694,7 +694,8 @@ input:checked + .slider:before {
    justify-content: flex-end;
    position: absolute;
    top: 75px;
-   right: 0;
+   right: auto;
+   left: auto;
    height:0%;
    width: 96%;
    padding: 0;
