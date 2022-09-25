@@ -25,5 +25,13 @@ Tech used :
 
 
 How to run :
-
+        
+        -clone the repo from git
+        -open the project on your local machine.
+        -open terminal at the root folder of the project or navigate to it in the terminal.
+        -use the commands 1. "npm install"          
+                          2. "npm run build" or "npm run dev"
+        *run the commands in order
+        -the website should be hosted on your local machine.
+                          
 
