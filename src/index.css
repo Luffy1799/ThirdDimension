@@ -696,9 +696,9 @@ input:checked + .slider:before {
    top: 75px;
    right: auto;
    left: auto;
-   padding: 30px;
+   padding: 2%;
    height:0%;
-   width: 100%;
+   width: 96%;
    padding: 0;
    border-radius: 3vw;
    transition: .2s ease-in;
