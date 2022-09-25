@@ -22,6 +22,7 @@ Tech used :
         -GitHub Pages ----- to host the website online.
         -Vite.js     ------ to set up a development environment for react.js / local hoasting the site to test.
         -Mozilla Firefox -- to test resposiveness of the website.
+        -Vercel      ------ to host the website online.
 
 
 How to run :
