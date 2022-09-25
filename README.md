@@ -14,7 +14,7 @@ A Frontend Angular application that can:
 Tech used :
 
         -HTML        \
-        -CSS         ------ to create and style the layout to add functionality.
+        -CSS         ------ to create and style the layout and to add functionality.
         -Javascript  /
         -React.Js    ------ as a library for javascript application.
         -Three.js    ------ to render 3d objects on to the webpage. 
