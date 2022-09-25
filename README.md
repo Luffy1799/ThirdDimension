@@ -19,7 +19,6 @@ Tech used :
         -React.Js    ------ as a library for javascript application.
         -Three.js    ------ to render 3d objects on to the webpage. 
         -Adobe Xd    ------ to make design wirerames of the website.
-        -GitHub Pages ----- to host the website online.
         -Vite.js     ------ to set up a development environment for react.js / local hoasting the site to test.
         -Mozilla Firefox -- to test resposiveness of the website.
         -Vercel      ------ to host the website online.
