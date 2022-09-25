@@ -312,9 +312,7 @@ input[type=text]:focus {
   transition: .5s ease-in;
 }
 
-.searchbar img {
-  height: 60%;
-}
+
 
 .uploadBtn {
   display: flex;
