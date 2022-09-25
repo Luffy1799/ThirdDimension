@@ -34,7 +34,9 @@ How to run :
                           2. "npm run build" or "npm run dev"
         *run the commands in order
         -the website should be hosted on your local machine.
-                          
+         
+         prerequisites = 1.Node.js should be installed
+                         2. Vite should be installed       
 
 Important dates:
 
