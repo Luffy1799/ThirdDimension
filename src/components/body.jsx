@@ -54,15 +54,15 @@ export default function Body() {
                 <div className="flex">
                     <label id="uploadBtnId" className= "uploadBtn">
                         <input  type="file" />
-                        <img src="/public/images/uploadicon.png" alt="" />
+                        <img src="public/images/uploadicon.png" alt="" />
                     </label>
                     
                     <div id="searchBtnsId" className="searchBtns">
                         <div onClick={listClick} id= "btn1" className="searchBtn1 btnActive">
-                            <img src="/public/images/listicon.png" alt="" />
+                            <img src="public/images/listicon.png" alt="" />
                         </div>
                         <div onClick={gridClick} id= "btn2" className="searchBtn2">
-                            <img src="/public/images/gridicon.png" alt="" />
+                            <img src="public/images/gridicon.png" alt="" />
                         </div>
                     </div>
                 </div>

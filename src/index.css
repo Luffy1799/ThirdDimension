@@ -48,7 +48,7 @@ ul {
   align-items: center;
   height: 100vh;
   width: 100vw;
-  background-image: url('/public/background-dark.jpg');
+  background-image: url('public/background-dark.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -57,7 +57,7 @@ ul {
 }
 
 #root .appDark {
-  background-image: url('/public/images/background.jpg');
+  background-image: url('public/images/background.jpg');
   transition: .5s ease-in;
 }
 
@@ -901,7 +901,7 @@ input:checked + .slider:before {
   align-items: center;
   gap: 10px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url('/public/images/background-dark.jpg');
+  background-image: url('public/images/background-dark.jpg');
   background-size: cover;
 }
 

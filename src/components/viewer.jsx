@@ -4,7 +4,7 @@ import * as THREE from 'three';
 import {GLTFLoader} from "three/examples/jsm/loaders/GLTFLoader.js";
 import {OrbitControls} from "three/examples/jsm/controls/OrbitControls";
 import { useParams } from "react-router-dom";
-import data from '/public/modelsData';
+import data from 'public/modelsData';
 import { Link } from "react-router-dom";
 
 
@@ -108,11 +108,11 @@ export default function Viewer() {
       <canvas id="c"> 
       </canvas>
       <Link id="viewerCloseId" className="viewerBtn top-left" to = "/">
-          <img src="/src/assets/images/closeicon.png" alt="" />
+          <img src="public/images/closeicon.png" alt="" />
         </Link>
 
         <div id="viewerVrId" className="viewerBtn top-right">
-          <img src="/src/assets/images/vricon.png" alt="" />
+          <img src="public/images/vricon.png" alt="" />
         </div>
     </div>
   )

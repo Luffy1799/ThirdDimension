@@ -6,7 +6,7 @@ import InputLabel from "./inputLabel";
 export default function LogIn() {
     return (
         <div className="logInPage">
-            <Link className="fabrikImg" to="/"><img src="/public/images/whitefabriklogo.webp" alt="" /></Link>
+            <Link className="fabrikImg" to="/"><img src="public/images/whitefabriklogo.webp" alt="" /></Link>
             <div className="logInCard">
                 <h3>LOG INTO YOUR ACCOUNT</h3>
                 <form action="">

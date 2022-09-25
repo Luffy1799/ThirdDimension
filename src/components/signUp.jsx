@@ -7,7 +7,7 @@ export default function SignUp() {
     
         return (
             <div className="logInPage">
-                <Link className="fabrikImg" to="/"><img src="/public/images/whitefabriklogo.webp" alt="" /></Link>
+                <Link className="fabrikImg" to="/"><img src="public/images/whitefabriklogo.webp" alt="" /></Link>
                 <div className="logInCard">
                     <h3>REGISTER</h3>
                     <form action="">

@@ -6,11 +6,11 @@ export default function NavElements() {
         <div className="navElements">
                 <div className="navLog">
                     <Link id= "navText1" className="navBtns" to= "/login">
-                        <img src="/public/images/usericon.png" alt="" />
+                        <img src="public/images/usericon.png" alt="" />
                         <p>Login</p>
                     </Link>
                     <Link id= "navText2" className="navBtns" to= "/signup">
-                        <img src="/public/images/signup.png" alt="" />
+                        <img src="public/images/signup.png" alt="" />
                         <p>Register</p>
                     </Link>
                 </div>

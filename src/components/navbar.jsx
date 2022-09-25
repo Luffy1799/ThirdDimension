@@ -51,17 +51,17 @@ export default function Nav() {
     return (
         <div id="navId" className="navbar">
             <div className="navLogo">
-                <img className="logoImg" src="/public/images/fabriklogo.png" alt="" />
+                <img className="logoImg" src="public/images/fabriklogo.png" alt="" />
             </div>
             <NavDefault/>
             <div id= "navMobileId" className="navMobile">
               <NavElements/>
             </div>
             <div onClick = {navOn} id = "hamLogoId" className="hamLogo">
-                <img className="hamImg" src="/public/images/hamburgermenu.png" alt="" />
+                <img className="hamImg" src="public/images/hamburgermenu.png" alt="" />
             </div>
             <div onClick = {navOff} id="closeNavLogoId" className="closeNavLogo">
-                <img className="hamImg" src="/public/images/upicon.png" alt="" />
+                <img className="hamImg" src="public/images/upicon.png" alt="" />
             </div>
         </div>
     )
