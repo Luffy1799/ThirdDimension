@@ -8,7 +8,7 @@ export default function GridItem(props) {
         <Link className="item textLink" to= {go}>
             <div className="itemInfo" id={props.path} >
                 <p>{props.name}</p>
-                <img src="/public/images/rightarrow-light.png" alt="" />
+                <img src="./images/rightarrow-light.png" alt="" />
             </div>
         </Link>
         )   

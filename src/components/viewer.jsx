@@ -108,11 +108,11 @@ export default function Viewer() {
       <canvas id="c"> 
       </canvas>
       <Link id="viewerCloseId" className="viewerBtn top-left" to = "/">
-          <img src="public/images/closeicon.png" alt="" />
+          <img src="./images/closeicon.png" alt="" />
         </Link>
 
         <div id="viewerVrId" className="viewerBtn top-right">
-          <img src="public/images/vricon.png" alt="" />
+          <img src="./images/vricon.png" alt="" />
         </div>
     </div>
   )

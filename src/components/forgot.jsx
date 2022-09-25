@@ -6,7 +6,7 @@ import InputLabel from "./inputLabel";
 export default function ForgotPassword() {
     return (
         <div className="logInPage">
-            <Link className="fabrikImg" to="/"><img src="public/images/whitefabriklogo.webp" alt="" /></Link>
+            <Link className="fabrikImg" to="/"><img src="./images/whitefabriklogo.webp" alt="" /></Link>
             <div className="logInCard">
                 <h3>RESET PASSWORD</h3>
                 <form action="">
