@@ -289,7 +289,7 @@ ul {
 
 .searchbar:focus {
   width: 49.5%;
-  height: 84%;
+  height: 95%;
   transition: 0.2s linear;
 }
 
