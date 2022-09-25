@@ -36,3 +36,8 @@ How to run :
         -the website should be hosted on your local machine.
                           
 
+Important dates:
+
+        -project assigned on -19th of September, 2022
+        -project start date -  20th of September, 2022
+        -project end and submission date - 25th of September, 2022 
