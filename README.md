@@ -26,7 +26,8 @@ Tech used :
 
 How to run :
         
-        -clone the repo from git
+        -download the project from github.
+        -extract the project to your desired directory.
         -open the project on your local machine.
         -open terminal at the root folder of the project or navigate to it in the terminal.
         -use the commands 1. "npm install"          
