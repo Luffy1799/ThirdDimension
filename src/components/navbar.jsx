@@ -38,7 +38,7 @@ export default function Nav() {
 // nav bar hamburger button
 
         function navOn() {
-            document.getElementById('navMobileId').style.height = "auto";
+            document.getElementById('navMobileId').style.height = "140px";
             document.getElementById('hamLogoId').style.display = "none";
             document.getElementById('closeNavLogoId').style.display = "flex";
         }
