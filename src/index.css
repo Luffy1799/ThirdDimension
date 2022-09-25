@@ -695,7 +695,7 @@ input:checked + .slider:before {
    position: absolute;
    top: 75px;
    right: 0;
-   height:auto;
+   height:0%;
    width: 100%;
    padding: 0;
    border-radius: 3vw;
