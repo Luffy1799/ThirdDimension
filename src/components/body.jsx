@@ -11,7 +11,7 @@ export default function Body() {
     
     const [searchKey, setSearchKey] = useState('');
 
-    
+
         const Items = data.filter((val) => {
             if(searchKey == '') {
                 return val;
