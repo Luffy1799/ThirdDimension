@@ -33,8 +33,8 @@ export default function SignUp() {
                     </form>
                     
                     <div className="policy">
-                        <h3><a href="">Privacy policy</a></h3>
-                        <h3 className="terms"><a href="">Terms of service</a></h3>
+                        <h3><Link className="fabrikImg" to="/">Privacy policy</Link></h3>
+                        <h3 className="terms"><Link className="fabrikImg" to="/">Terms of service</Link></h3>
                     </div>
                 </div>
             </div>
