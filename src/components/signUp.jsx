@@ -33,8 +33,8 @@ export default function SignUp() {
                     </form>
                     
                     <div className="policy">
-                        <h3><a href="https://fabrik.space/privacy-policy/">Privacy policy</a></h3>
-                        <h3 className="terms"><a href="https://fabrik.space/terms-and-conditions/">Terms of service</a></h3>
+                        <h3><a href="">Privacy policy</a></h3>
+                        <h3 className="terms"><a href="">Terms of service</a></h3>
                     </div>
                 </div>
             </div>
