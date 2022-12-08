@@ -8,8 +8,6 @@ A Frontend Angular application that can:
         -View the 3D model from the list. Use Three.JS to view/ render the 3D models from the list.
         -UI should be responsive to fit any device, mobile.
 
-        URL as a reference and to match/ replicate the UI design -> https://vark.fbrk.in/community 
-
 
 Tech used :
 
