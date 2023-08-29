@@ -7,6 +7,7 @@ A Frontend Angular application that can:
         -Option to upload 3D models.
         -View the 3D model from the list. Use Three.JS to view/ render the 3D models from the list.
         -UI should be responsive to fit any device, mobile.
+        -Hosted here - https://fabrik3js-489s.vercel.app/
 
 
 Tech used :
